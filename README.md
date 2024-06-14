@@ -63,10 +63,14 @@ No plans at the moment
 </dl>
 
 ## Softwares
+#### Lua
 * [ ] Fivem
 * [ ] RedM
-* [ ] Alt V
 
+#### Js
+* [X] Alt V
+
+---
 >[!IMPORTANT]
 That's all for now
 
